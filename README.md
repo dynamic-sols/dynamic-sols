@@ -1,5 +1,5 @@
 - 👋 Hi, We are @dynamic-sols
-- 👀 We are interested in making solutions for Teams for different technologies.
+- We are interested in making solutions for Teams for different technologies.
 **Dynamic Solutions is  here to provide multiple solutions for their clients. Our team consists of experts having vast experience in different technologies such as Web Development: HTML, CSS, NodeJS, JavaScript, Bootstrap, ReactJS.
 Mobile Applications: Android App Development, iOS App Development, React Native. Graphics designer, WordPress, plugin customization.
 Backend Development: Node JS, Express Js, SQL, NoSQL, PostgreSQL, Mongo DB.
